@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnSplashDemo</string>
+    <string name="transition_name">name%1$d</string>
+    <string name="title_activity_single_image">SingleImage</string>
+
+</resources>

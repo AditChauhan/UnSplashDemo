@@ -1,0 +1,36 @@
+<!--
+      ~ Copyright (c) 2019 Created by Adit Chauhan
+      -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".Activity.MainActivity">
+
+<item
+    android:id="@+id/action_search"
+    android:icon="@drawable/ic_action_action_search"
+    android:orderInCategory="100"
+    android:title="@string/abc_search_hint"
+    app:showAsAction="always" />
+
+<item
+    android:id="@+id/span2"
+    android:icon="@android:drawable/ic_media_play"
+    android:orderInCategory="100"
+    android:title="span 2"
+    app:showAsAction="collapseActionView" />
+<item
+    android:id="@+id/span3"
+    android:icon="@android:drawable/ic_media_play"
+    android:orderInCategory="100"
+    android:title="span 3"
+    app:showAsAction="collapseActionView" />
+<item
+    android:id="@+id/span4"
+    android:icon="@android:drawable/ic_media_play"
+    android:orderInCategory="100"
+    android:title="span 4"
+    app:showAsAction="collapseActionView" />
+
+</menu>
